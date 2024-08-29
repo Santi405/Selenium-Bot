@@ -18,7 +18,7 @@ def click(x):
 # Recorremos todos los nombres
 for nombre in nombres:
     # Nos dirijimos a la web
-    driver.get("https://qr-creator.com/urls/i8soKSkottLXL9ErLMoq0MtLLdFPyzc3isMibppSXhUHBEbeBsbajs6Ourpg0imxODM5sRhdODizuCQ1FygOBAA")
+    driver.get("[QR URL]")
 
     # Entramos en la materia
     click(TIPO)
