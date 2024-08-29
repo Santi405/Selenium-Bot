@@ -1,0 +1,47 @@
+{
+    "Monday": [
+        {
+            "course": "Math 101",
+            "time": "09:00 - 10:30",
+            "location": "Room A1"
+        },
+        {
+            "course": "Physics 201",
+            "time": "11:00 - 12:30",
+            "location": "Room B2"
+        }
+    ],
+    "Tuesday": [
+        {
+            "course": "Chemistry 101",
+            "time": "10:00 - 11:30",
+            "location": "Room C3"
+        },
+        {
+            "course": "Philosophy 101",
+            "time": "13:00 - 14:30",
+            "location": "Room D4"
+        }
+    ],
+    "Wednesday": [
+        {
+            "course": "History 202",
+            "time": "15:00 - 16:30",
+            "location": "Room E5"
+        }
+    ],
+    "Thursday": [
+        {
+            "course": "History 202",
+            "time": "15:00 - 16:30",
+            "location": "Room E5"
+        }
+    ],
+    "Friday": [
+        {
+            "course": "History 202",
+            "time": "15:00 - 16:30",
+            "location": "Room E5"
+        }
+    ]
+}
