@@ -6,11 +6,11 @@ BASICAS =   "[URL BASICAS]"
 SISTEMAS =  "[URL SISTEMAS]"
 
 # MATERIAS
-materias = {"AM2" : "[URL]",
-            "FISICA2" : "[URL]",
-            "PDP" : "[URL]",
-            "AdeS" : "[URL]",
-            "SO" : "[URL]"
+materias = {"[MATERIA 1]" : "[URL]",
+            "[MATERIA 2]" : "[URL]",
+            "[MATERIA 3]" : "[URL]",
+            "[MATERIA 4]" : "[URL]",
+            "[MATERIA 5]" : "[URL]"
             }
 
 ENVIAR =    "//*[@id='form-main-content1']/div/div/div[2]/div[2]/div/button"
