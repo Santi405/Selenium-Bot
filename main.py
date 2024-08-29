@@ -28,16 +28,17 @@ for nombre in nombres:
     # Le damos tiempo a cargar (A MODIFICAR)
     time.sleep(2)
 
-    # BUSCAMOS EL NOMBRE
+    # Buscamos el nombre
     rB = driver.find_element(By.XPATH, "//input[@value="+ nombre +"]")
     rB.click()
 
-    # ENVIAMOS
+    # Enviamos
     rB = driver.find_element(By.XPATH, "//*[@id='form-main-content1']/div/div/div[2]/div[2]/div/button")
     rB.click()
     time.sleep(2)
 
 time.sleep(10)
+
 # Cierra el WebDriver
 driver.quit()
 
